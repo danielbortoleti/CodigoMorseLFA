@@ -15,7 +15,9 @@ Usamos o Ruby como linguagem https://www.ruby-lang.org/pt/documentation/
 
 <h2 align="center"><strong>Links :</strong></h2>
 
-Vídeo 🎥: colocar link do video
+Apresentação 📒: https://www.canva.com/design/DAE7kRrdo5g/gv6OBLNMRYNm584-dMq0wg/view?utm_content=DAE7kRrdo5g&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent#1
+
+Vídeo 🎥: https://www.youtube.com/watch?v=qESwtucLlPQ
 
 <h1><strong> Programa em execução:  😎 </strong></h1>
 <img src="morse.gif" />
