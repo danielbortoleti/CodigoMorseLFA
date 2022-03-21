@@ -17,4 +17,8 @@ Usamos o Ruby como linguagem https://www.ruby-lang.org/pt/documentation/
 
 Vídeo 🎥: colocar link do video
 
+<h1><strong> Programa em execução:  😎 </strong></h1>
+<img src="morse.gif" />
+
+
 </div>
